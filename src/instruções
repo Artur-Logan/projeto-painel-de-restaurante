@@ -1,0 +1,8 @@
+ Criar sistema para restaurante, vai exibir opções pra escolher o que comprar
+ 1. Comida
+2. Bebida
+3. Acompanhamento
+ Pedir ao usuário pra selecionar opção
+ E exibir comidas e seus valores pro usuário
+ Exemplo
+ selecionou opção 1, mostrar opções de comida
